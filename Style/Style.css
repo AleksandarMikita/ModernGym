@@ -6,7 +6,7 @@
 html, body{
     margin: 0;
     padding: 0;
-    background-image: url(../slike//modern.jpg);
+    background-image: url(../slike/modern.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
